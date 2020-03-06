@@ -39,8 +39,8 @@ namespace EasySurvivalScripts
         public bool LandAnimation;
 
         [Header("Sounds")]
-        public List<AudioClip> FootstepSounds;
-        //public List<AudioClip> JumpSounds;
+        //public List<AudioClip> FootstepSounds;
+        public List<AudioClip> JumpSounds;
         public List<AudioClip> LandSounds;
 
         CharacterController characterController;
@@ -66,7 +66,7 @@ namespace EasySurvivalScripts
             SetCharacterAnimations();
 
             //sync footsteps with controller
-            PlayFootstepSounds();
+            //PlayFootstepSounds();
         }
 
         void HandlePlayerControls()
@@ -182,7 +182,7 @@ namespace EasySurvivalScripts
             return retVal;
         }
 
-        void PlayFootstepSounds()
+        /*void PlayFootstepSounds()
         {
             if (playerStates == PlayerStates.Idle)
                 return;
@@ -194,7 +194,7 @@ namespace EasySurvivalScripts
                 footstep_et = 0;
                 _audioSource.PlayOneShot(FootstepSounds[Random.Range(0, FootstepSounds.Count)]);
             }
-        }
+        }*/
 
     }
 }
