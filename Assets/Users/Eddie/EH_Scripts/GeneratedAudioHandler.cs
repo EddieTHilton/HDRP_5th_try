@@ -25,6 +25,7 @@ public class GeneratedAudioHandler : MonoBehaviour
             tempObject.SetActive(false); // This deactivates each object such that they don't make any sound at the begining of the scene.
         }
         sourceCount = sources.Count;
+        TimeSincePrevious = 10;
     }
 
     // Update is called once per frame
