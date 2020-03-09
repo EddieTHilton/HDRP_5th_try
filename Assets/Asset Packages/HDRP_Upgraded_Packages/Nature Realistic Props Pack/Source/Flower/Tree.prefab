@@ -101,7 +101,7 @@ Material:
   m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
   m_ShaderKeywords: _ALPHATEST_ON _BLENDMODE_ALPHA _BLENDMODE_PRESERVE_SPECULAR_LIGHTING
     _DOUBLESIDED_ON _ENABLE_FOG_ON_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION _NORMALMAP_TANGENT_SPACE
-    _SURFACE_TYPE_TRANSPARENT
+    _SPECULAR_OCCLUSION_NONE _SURFACE_TYPE_TRANSPARENT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
@@ -300,7 +300,7 @@ Material:
     - _SmoothnessRemapMin: 0
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
-    - _SpecularOcclusionMode: 1
+    - _SpecularOcclusionMode: 0
     - _SquashAmount: 1
     - _SrcBlend: 1
     - _StencilRef: 2
@@ -901,7 +901,7 @@ MonoBehaviour:
     adaptiveLODQuality: 0.8
     shadowTextureQuality: 3
     enableWelding: 1
-    enableAmbientOcclusion: 1
+    enableAmbientOcclusion: 0
     enableMaterialOptimize: 1
     aoDensity: 1
     rootSpread: 5
