@@ -40,10 +40,14 @@ RenderSettings:
   m_Sun: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 2.641458, g: 2.467632, b: 2.6898766, a: 1}
 =======
   m_IndirectSpecularColor: {r: 1.1885918, g: 0.87845546, b: 1.5855343, a: 1}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+  m_IndirectSpecularColor: {r: 2.641458, g: 2.467632, b: 2.6898766, a: 1}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_IndirectSpecularColor: {r: 2.641458, g: 2.467632, b: 2.6898766, a: 1}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -207,6 +211,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &10732598 stripped
@@ -215,6 +222,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1859188856}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &18214725
@@ -311,6 +319,8 @@ MeshFilter:
   m_GameObject: {fileID: 18214725}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &18232575 stripped
@@ -562,10 +572,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 3
 =======
       value: 4
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 3
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 3
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -614,10 +628,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -652,10 +670,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -664,7 +686,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -679,10 +705,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 7
 =======
       value: 6
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 7
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 7
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -720,6 +750,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &49254699 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -733,6 +764,8 @@ Transform:
   m_PrefabInstance: {fileID: 738040329}
   m_PrefabAsset: {fileID: 0}
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &53320989
 GameObject:
   m_ObjectHideFlags: 0
@@ -826,6 +859,9 @@ Transform:
   m_Father: {fileID: 94423998}
   m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &57856718
 PrefabInstance:
@@ -909,10 +945,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -947,10 +987,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -959,7 +1003,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -974,10 +1022,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 28
 =======
       value: 27
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 28
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 28
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -1015,13 +1067,19 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &63122225 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
     type: 3}
   m_PrefabInstance: {fileID: 972565461}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &67324675
 GameObject:
@@ -1115,9 +1173,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: -143.104, z: 0}
 <<<<<<< HEAD
+=======
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 0, y: -143.104, z: 0}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: -143.104, z: 0}
@@ -1168,8 +1231,11 @@ Transform:
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 41.000004, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &94423997
@@ -1209,6 +1275,10 @@ Transform:
   - {fileID: 1846134792}
   - {fileID: 1266247227}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  - {fileID: 192001128}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   - {fileID: 192001128}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -1261,9 +1331,12 @@ Transform:
   - {fileID: 920605963}
   - {fileID: 1996632388}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1771883401}
   - {fileID: 1579039674}
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   - {fileID: 53320993}
   - {fileID: 1771883401}
   - {fileID: 1579039674}
@@ -1273,6 +1346,9 @@ Transform:
   - {fileID: 1540515868}
   - {fileID: 962779860}
   - {fileID: 1652140317}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   - {fileID: 1271287008}
   - {fileID: 592579301}
@@ -1281,6 +1357,7 @@ Transform:
   - {fileID: 500004965}
   - {fileID: 1993726883}
   - {fileID: 701021499}
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 791578263}
   - {fileID: 1648470370}
@@ -1302,6 +1379,10 @@ Transform:
 =======
   m_RootOrder: 10
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_Father: {fileID: 0}
   m_RootOrder: 9
@@ -1383,12 +1464,15 @@ Transform:
   m_PrefabInstance: {fileID: 97213138}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &110578617 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 1288547411}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &121295207
@@ -1483,7 +1567,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 43
+=======
+  m_RootOrder: 44
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 44
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -1738,12 +1826,15 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &179729951 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 1125772299}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &185435551 stripped
@@ -1844,9 +1935,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: -10.738001, z: 0}
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: -10.738001, z: 0}
 --- !u!1 &192001124
@@ -1942,6 +2036,9 @@ Transform:
   m_Father: {fileID: 94423998}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 70.46001, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &198581763 stripped
 Transform:
@@ -1950,12 +2047,15 @@ Transform:
   m_PrefabInstance: {fileID: 1885634322}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &201894409 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 813338171}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &208110852
@@ -2050,7 +2150,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 17
+=======
+  m_RootOrder: 18
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 18
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2162,7 +2266,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 29
+=======
+  m_RootOrder: 30
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 30
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2372,10 +2480,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2410,10 +2522,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2422,7 +2538,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2437,10 +2557,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 25
 =======
       value: 24
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 25
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 25
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2477,6 +2601,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!4 &261313292 stripped
 Transform:
@@ -2484,6 +2609,9 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 245090691}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2699,10 +2827,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2737,10 +2869,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2749,7 +2885,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2764,10 +2904,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 26
 =======
       value: 25
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 26
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 26
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2910,10 +3054,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2948,10 +3096,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2960,7 +3112,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -2975,10 +3131,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 8
 =======
       value: 7
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 8
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 8
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -3091,12 +3251,15 @@ Transform:
   m_PrefabInstance: {fileID: 302721898}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &311374142 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 1758644207}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &313761473
@@ -3129,7 +3292,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Profile: {fileID: 0}
+=======
+  m_Profile: {fileID: 11400000, guid: a123fc0ac58cb774e8592c925f167e7c, type: 2}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_Profile: {fileID: 11400000, guid: a123fc0ac58cb774e8592c925f167e7c, type: 2}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -3152,6 +3319,9 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &325953300 stripped
@@ -3160,6 +3330,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 813338171}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &328384511 stripped
 Transform:
@@ -3167,6 +3338,8 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 949810032}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_PrefabAsset: {fileID: 0}
@@ -3235,6 +3408,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &348816808 stripped
@@ -3243,6 +3419,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1048103636}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &348617871 stripped
 Transform:
@@ -3250,6 +3427,8 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1220265987}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_PrefabAsset: {fileID: 0}
@@ -3441,10 +3620,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 4
 =======
   m_RootOrder: 6
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+  m_RootOrder: 4
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 4
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -3616,7 +3799,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 34
+=======
+  m_RootOrder: 35
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 35
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -3713,7 +3900,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 13
+=======
+  m_RootOrder: 14
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 14
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -3903,7 +4094,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 36
+=======
+  m_RootOrder: 37
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 37
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -3984,7 +4179,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 8
+=======
+      value: 9
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 9
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -4496,7 +4695,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 3
+=======
+      value: 4
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 4
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -4594,12 +4797,15 @@ Transform:
   m_PrefabInstance: {fileID: 400267613}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &401376100 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 48071281}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &413721595
@@ -4694,7 +4900,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 25
+=======
+  m_RootOrder: 26
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 26
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -4706,10 +4916,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -4744,10 +4958,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -4756,7 +4974,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -4771,10 +4993,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 11
 =======
       value: 10
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 11
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 11
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -4905,12 +5131,15 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 9.918, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &437559985 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 299481648}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &449961146
@@ -5082,7 +5311,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 39
+=======
+  m_RootOrder: 40
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 40
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -5212,7 +5445,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 47
+=======
+  m_RootOrder: 48
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 48
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -5629,6 +5866,7 @@ Transform:
   m_GameObject: {fileID: 473790139}
   m_LocalRotation: {x: -0, y: 0.9876385, z: -0, w: 0.15674913}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 296.3367, y: -33.90776, z: 85.79108}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
@@ -5640,11 +5878,16 @@ Transform:
   m_RootOrder: 75
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 744.5, y: 109.8, z: 611.06}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 22
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 161.964, z: 0}
 --- !u!1001 &481339764
@@ -5812,10 +6055,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -5850,10 +6097,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -5862,7 +6113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -5877,10 +6132,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 13
 =======
       value: 12
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 13
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 13
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -6005,6 +6264,7 @@ Transform:
   m_GameObject: {fileID: 492133814}
   m_LocalRotation: {x: -0, y: 0.538672, z: -0, w: 0.8425156}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 261.62668, y: -33.90776, z: 69.7511}
   m_LocalScale: {x: 0.41472012, y: 22.159023, z: 10.934628}
   m_Children: []
@@ -6016,11 +6276,16 @@ Transform:
   m_RootOrder: 70
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 709.79, y: 109.8, z: 595.02}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 10.934628}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 17
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 65.187004, z: 0}
 --- !u!1001 &498975446
@@ -6074,7 +6339,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 7
+=======
+      value: 8
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 8
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -6188,7 +6457,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 63
+=======
+  m_RootOrder: 71
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 71
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -6285,7 +6558,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 15
+=======
+  m_RootOrder: 16
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 16
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -6463,7 +6740,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 27
+=======
+  m_RootOrder: 28
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 28
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -6560,7 +6841,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 53
+=======
+  m_RootOrder: 54
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 54
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -6598,10 +6883,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 7
 =======
   m_RootOrder: 9
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+  m_RootOrder: 7
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 7
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -6694,6 +6983,7 @@ Transform:
   m_GameObject: {fileID: 518277032}
   m_LocalRotation: {x: -0, y: 0.5875287, z: -0, w: 0.8092034}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 283.8267, y: -33.90776, z: 90.351074}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 10.9346285}
   m_Children: []
@@ -6705,11 +6995,16 @@ Transform:
   m_RootOrder: 73
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 731.99, y: 109.8, z: 615.62}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 10.934628}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 20
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 71.964005, z: 0}
 --- !u!1 &520908906
@@ -6800,6 +7095,7 @@ Transform:
   m_GameObject: {fileID: 520908906}
   m_LocalRotation: {x: -0, y: 0.5875287, z: -0, w: 0.8092034}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 295.06668, y: -33.90776, z: 60.26111}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
@@ -6811,11 +7107,16 @@ Transform:
   m_RootOrder: 74
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 743.23, y: 109.8, z: 585.53}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 21
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 71.964005, z: 0}
 --- !u!1001 &525879929
@@ -7128,6 +7429,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &552153021 stripped
@@ -7136,6 +7440,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1918730335}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &573094410 stripped
 Transform:
@@ -7143,6 +7448,8 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1622131988}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_PrefabAsset: {fileID: 0}
@@ -7238,7 +7545,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 60
+=======
+  m_RootOrder: 68
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 68
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -7395,6 +7706,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &639109697 stripped
@@ -7405,15 +7719,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &658177591
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &634174914
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
@@ -7581,12 +7899,54 @@ PrefabInstance:
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 1947203393}
+    m_Modifications:
+    - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
+        type: 3}
+      propertyPath: m_Name
+      value: Growable_Flowers (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -646.64526
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.04954169
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.2622185
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.13052595
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
+=======
+      value: 0.9914449
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -7595,7 +7955,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 18
+=======
+      value: 19
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 19
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -7918,7 +8282,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 37
+=======
+  m_RootOrder: 38
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 38
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8078,7 +8446,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 65
+=======
+  m_RootOrder: 73
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 73
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8165,10 +8537,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8203,10 +8579,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8215,7 +8595,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8230,10 +8614,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 27
 =======
       value: 26
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 27
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 27
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8368,7 +8756,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 30
+=======
+  m_RootOrder: 31
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 31
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8380,10 +8772,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8418,10 +8814,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8430,7 +8830,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8644,7 +9048,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 9
+=======
+  m_RootOrder: 10
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 10
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -8836,6 +9244,9 @@ MonoBehaviour:
   weight: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   sharedProfile: {fileID: 11400000, guid: 183cbd347d25080429f42b520742bbd8, type: 2}
@@ -8846,9 +9257,12 @@ Transform:
   m_PrefabInstance: {fileID: 245090691}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   sharedProfile: {fileID: 11400000, guid: f381c4bb185145948b1d68780cdbd261, type: 2}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &776556704 stripped
@@ -8945,6 +9359,7 @@ Transform:
   m_GameObject: {fileID: 791578259}
   m_LocalRotation: {x: -0, y: 0.13052595, z: -0, w: 0.9914449}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 250.2167, y: -32.607765, z: 91.581055}
   m_LocalScale: {x: 0.6037351, y: 18.16655, z: 20.831585}
   m_Children: []
@@ -8956,11 +9371,16 @@ Transform:
   m_RootOrder: 66
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 698.38, y: 111.1, z: 616.85}
   m_LocalScale: {x: 0.6037351, y: 18.16655, z: 20.831583}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 13
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 15.000001, z: 0}
 --- !u!1 &806309570
@@ -9051,6 +9471,7 @@ Transform:
   m_GameObject: {fileID: 806309570}
   m_LocalRotation: {x: -0, y: 0.10444594, z: -0, w: 0.99453056}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 258.17673, y: -32.607765, z: 51.01111}
   m_LocalScale: {x: 0.689007, y: 18.16655, z: 18.166552}
   m_Children: []
@@ -9062,11 +9483,16 @@ Transform:
   m_RootOrder: 68
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 706.34, y: 111.1, z: 576.28}
   m_LocalScale: {x: 0.6890069, y: 18.16655, z: 18.16655}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 15
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 11.991, z: 0}
 --- !u!1 &811444227
@@ -9145,10 +9571,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 5
 =======
   m_RootOrder: 7
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+  m_RootOrder: 5
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 5
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -9166,10 +9596,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -9204,10 +9638,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -9216,7 +9654,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -9231,10 +9673,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 29
 =======
       value: 28
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 29
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 29
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -9352,7 +9798,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 6
+=======
+      value: 7
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 7
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -9470,12 +9920,15 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e32b014d99bef14492d7c93cdeb28a3, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &834566966 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 281990767}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &852008415
@@ -9629,6 +10082,7 @@ Transform:
   m_PrefabInstance: {fileID: 859451137}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &877327825 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -9641,6 +10095,8 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1913983458}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &899201582
@@ -9731,6 +10187,7 @@ Transform:
   m_GameObject: {fileID: 899201582}
   m_LocalRotation: {x: -0, y: 0.538672, z: -0, w: 0.8425156}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 264.7767, y: -33.90776, z: 60.861084}
   m_LocalScale: {x: 0.41472012, y: 22.159023, z: 10.934628}
   m_Children: []
@@ -9742,11 +10199,16 @@ Transform:
   m_RootOrder: 69
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 712.94, y: 109.8, z: 586.13}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 10.934628}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 16
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 65.187004, z: 0}
 --- !u!1 &906097535
@@ -9841,7 +10303,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 31
+=======
+  m_RootOrder: 32
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 32
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -9938,7 +10404,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 10
+=======
+  m_RootOrder: 11
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 11
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10035,7 +10505,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 55
+=======
+  m_RootOrder: 56
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 56
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10112,11 +10586,14 @@ PrefabInstance:
 --- !u!4 &924114190 stripped
 Transform:
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_CorrespondingSourceObject: {fileID: 400000, guid: 940d55d4117386f4f9398ea3ff52d4cd,
     type: 3}
   m_PrefabInstance: {fileID: 924114189}
   m_PrefabAsset: {fileID: 0}
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_CorrespondingSourceObject: {fileID: 400000, guid: 940d55d4117386f4f9398ea3ff52d4cd,
     type: 3}
   m_PrefabInstance: {fileID: 924114189}
@@ -10214,6 +10691,9 @@ Transform:
   m_Father: {fileID: 94423998}
   m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &926502649
 PrefabInstance:
@@ -10222,10 +10702,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10260,10 +10744,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10272,7 +10760,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10407,10 +10899,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10445,10 +10941,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10457,7 +10957,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10472,10 +10976,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 21
 =======
       value: 20
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 21
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 21
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10513,7 +11021,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &962779856
 GameObject:
   m_ObjectHideFlags: 0
@@ -10607,6 +11118,9 @@ Transform:
   m_Father: {fileID: 94423998}
   m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &967113422
 GameObject:
@@ -10700,7 +11214,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 16
+=======
+  m_RootOrder: 17
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 17
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10781,6 +11299,7 @@ Transform:
   m_PrefabInstance: {fileID: 970952667}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &974648467 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -10791,10 +11310,14 @@ Transform:
 =======
 --- !u!1001 &972565461
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+--- !u!1001 &972565461
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_TransformParent: {fileID: 0}
     m_Modifications:
@@ -10815,6 +11338,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4869342321829917341, guid: d90e3aaa1a17b874eb5857eb40b04371,
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
     m_TransformParent: {fileID: 1145263000}
     m_Modifications:
     - target: {fileID: 2639436111427501394, guid: 9e32b014d99bef14492d7c93cdeb28a3,
@@ -10838,11 +11363,15 @@ PrefabInstance:
       value: -346.83
       objectReference: {fileID: 0}
     - target: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
         type: 3}
       propertyPath: m_LocalRotation.x
       value: -0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4869342321829917341, guid: d90e3aaa1a17b874eb5857eb40b04371,
         type: 3}
@@ -10851,17 +11380,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4869342321829917341, guid: d90e3aaa1a17b874eb5857eb40b04371,
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
     - target: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: -0.4466015
       objectReference: {fileID: 0}
     - target: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
         type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4869342321829917341, guid: d90e3aaa1a17b874eb5857eb40b04371,
         type: 3}
@@ -10875,6 +11410,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4869342321829917341, guid: d90e3aaa1a17b874eb5857eb40b04371,
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
     - target: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
         type: 3}
       propertyPath: m_LocalRotation.w
@@ -10886,11 +11423,15 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4869342321829917341, guid: d90e3aaa1a17b874eb5857eb40b04371,
         type: 3}
@@ -10899,17 +11440,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4869342321829917341, guid: d90e3aaa1a17b874eb5857eb40b04371,
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
     - target: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: -53.052002
       objectReference: {fileID: 0}
     - target: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 6229628983829573854, guid: d90e3aaa1a17b874eb5857eb40b04371,
         type: 3}
@@ -10922,6 +11469,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e32b014d99bef14492d7c93cdeb28a3, type: 3}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9e32b014d99bef14492d7c93cdeb28a3, type: 3}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &1048103636
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10929,10 +11480,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10967,10 +11522,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10979,7 +11538,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10994,10 +11557,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 14
 =======
       value: 13
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 14
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 14
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -11108,12 +11675,15 @@ Transform:
   m_PrefabInstance: {fileID: 1078704207}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1106260004 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 1859188856}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &1107427518
@@ -11226,6 +11796,7 @@ Transform:
   - {fileID: 229450478}
   - {fileID: 1297224953}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1719042859}
   - {fileID: 634174915}
   m_Father: {fileID: 0}
@@ -11241,6 +11812,11 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 658177591}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_Father: {fileID: 0}
   m_RootOrder: 6
@@ -11328,10 +11904,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -11366,10 +11946,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -11378,7 +11962,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -11393,10 +11981,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 20
 =======
       value: 19
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 20
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 20
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -11599,6 +12191,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 3777760676755288187}
   - {fileID: 18232575}
   - {fileID: 198581763}
@@ -11611,6 +12204,8 @@ Transform:
   - {fileID: 8596798595322825882}
   - {fileID: 1963354082}
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   - {fileID: 2048527482}
   - {fileID: 1706394242}
   - {fileID: 18232575}
@@ -11626,6 +12221,9 @@ Transform:
   - {fileID: 8559430910726846171}
   - {fileID: 6346401210993872311}
   - {fileID: 8596798595322825882}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   - {fileID: 1174185886}
   - {fileID: 1382785970}
@@ -11633,10 +12231,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 11
 =======
   m_RootOrder: 12
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+  m_RootOrder: 11
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 11
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -11733,7 +12335,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 54
+=======
+  m_RootOrder: 55
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 55
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -11907,6 +12513,7 @@ Transform:
   m_GameObject: {fileID: 1177964497}
   m_LocalRotation: {x: -0, y: 0.5875287, z: -0, w: 0.8092034}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 273.8867, y: -33.90776, z: 87.071106}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
@@ -11918,11 +12525,16 @@ Transform:
   m_RootOrder: 71
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 722.05, y: 109.8, z: 612.34}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 18
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 71.964005, z: 0}
 --- !u!1 &1188868136
@@ -12013,10 +12625,16 @@ Transform:
   m_GameObject: {fileID: 1188868136}
   m_LocalRotation: {x: -0, y: 0.9876385, z: -0, w: 0.15674913}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 300.4667, y: -33.90776, z: 73.9411}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
 <<<<<<< HEAD
+=======
+  m_LocalPosition: {x: 748.63, y: 109.8, z: 599.21}
+  m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
+  m_Children: []
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_LocalPosition: {x: 748.63, y: 109.8, z: 599.21}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
@@ -12122,11 +12740,17 @@ Transform:
   m_LocalScale: {x: 1.3794, y: 8.542015, z: 1.3794}
   m_Children: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
   m_Father: {fileID: 94423998}
   m_RootOrder: 76
   m_LocalEulerAnglesHint: {x: 0, y: 161.964, z: 0}
+=======
+  m_Father: {fileID: 94423998}
+  m_RootOrder: 61
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_Father: {fileID: 94423998}
   m_RootOrder: 61
@@ -12139,10 +12763,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12177,10 +12805,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12189,7 +12821,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12243,10 +12879,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12281,10 +12921,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12293,7 +12937,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12629,6 +13277,7 @@ Transform:
   m_GameObject: {fileID: 1218372789}
   m_LocalRotation: {x: -0, y: 0.5875287, z: -0, w: 0.8092034}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 284.00668, y: -33.90776, z: 56.571106}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
@@ -12640,11 +13289,16 @@ Transform:
   m_RootOrder: 72
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 732.17, y: 109.8, z: 581.84}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 19
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 71.964005, z: 0}
 --- !u!1001 &1220265987
@@ -12654,10 +13308,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12692,10 +13350,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12704,7 +13366,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12719,10 +13385,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 12
 =======
       value: 11
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 12
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 12
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12851,7 +13521,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 22
+=======
+  m_RootOrder: 23
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 23
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12963,7 +13637,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 48
+=======
+  m_RootOrder: 49
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 49
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13075,10 +13753,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 5
 =======
       value: 1
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 5
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 5
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13121,12 +13803,15 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3b59fcfd37a84b8498ac176e86294a15, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1257414909 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 58887432}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &1266247223
@@ -13314,7 +13999,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 59
+=======
+  m_RootOrder: 67
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 67
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13411,7 +14100,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 33
+=======
+  m_RootOrder: 34
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 34
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13638,7 +14331,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 28
+=======
+  m_RootOrder: 29
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 29
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13710,10 +14407,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13748,10 +14449,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13760,7 +14465,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13775,10 +14484,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 16
 =======
       value: 15
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 16
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 16
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13817,6 +14530,9 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &1290937211 stripped
@@ -13825,6 +14541,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1213983830}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &1296037126 stripped
 Transform:
@@ -13832,6 +14549,8 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1846124394}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_PrefabAsset: {fileID: 0}
@@ -13900,6 +14619,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &1319528329 stripped
@@ -13916,6 +14636,13 @@ Transform:
   m_PrefabInstance: {fileID: 1048103636}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+--- !u!4 &1319528329 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
+    type: 3}
+  m_PrefabInstance: {fileID: 1913983458}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1330804229
@@ -14099,10 +14826,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14137,10 +14868,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14149,7 +14884,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14164,6 +14903,9 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
       value: 22
@@ -14183,9 +14925,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 21
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
       objectReference: {fileID: 0}
@@ -14298,7 +15043,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 32
+=======
+  m_RootOrder: 33
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 33
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14336,10 +15085,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 10
 =======
   m_RootOrder: 11
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+  m_RootOrder: 10
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 10
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14432,7 +15185,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 12
+=======
+      value: 16
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 16
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14517,10 +15274,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14555,10 +15316,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14567,7 +15332,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14582,10 +15351,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 10
 =======
       value: 9
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 10
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 10
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14789,7 +15562,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 44
+=======
+  m_RootOrder: 45
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 45
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14962,6 +15739,7 @@ PrefabInstance:
     - target: {fileID: 4279449019447086, guid: eded051879df4c147b9010199d240258, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 42.4
       objectReference: {fileID: 0}
     - target: {fileID: 4279449019447086, guid: eded051879df4c147b9010199d240258, type: 3}
@@ -14972,6 +15750,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 25.4
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
       value: 39.676758
       objectReference: {fileID: 0}
     - target: {fileID: 4279449019447086, guid: eded051879df4c147b9010199d240258, type: 3}
@@ -14981,6 +15761,9 @@ PrefabInstance:
     - target: {fileID: 4279449019447086, guid: eded051879df4c147b9010199d240258, type: 3}
       propertyPath: m_LocalPosition.z
       value: 23.7453
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
       objectReference: {fileID: 0}
     - target: {fileID: 4279449019447086, guid: eded051879df4c147b9010199d240258, type: 3}
@@ -14990,7 +15773,11 @@ PrefabInstance:
     - target: {fileID: 4279449019447086, guid: eded051879df4c147b9010199d240258, type: 3}
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0.77008724
+=======
+      value: -0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -15002,7 +15789,11 @@ PrefabInstance:
     - target: {fileID: 4279449019447086, guid: eded051879df4c147b9010199d240258, type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0.63793856
+=======
+      value: 1
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 1
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -15018,7 +15809,11 @@ PrefabInstance:
     - target: {fileID: 4279449019447086, guid: eded051879df4c147b9010199d240258, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 100.72301
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -15171,12 +15966,15 @@ MonoBehaviour:
   weight: 1
   sharedProfile: {fileID: 11400000, guid: 4183d5a77accf57488d9e7f9c91af1c4, type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1470919779 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 425922056}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &1473115806
@@ -15226,10 +16024,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 2
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 1
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 1
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -15363,7 +16165,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 52
+=======
+  m_RootOrder: 53
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 53
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -15535,7 +16341,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 14
+=======
+  m_RootOrder: 15
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 15
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -15638,7 +16448,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 18
+=======
+  m_RootOrder: 19
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 19
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -15719,12 +16533,15 @@ Transform:
   m_PrefabInstance: {fileID: 1522495499}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1530266847 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 1358507303}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &1532085888
@@ -15833,7 +16650,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 10
+=======
+      value: 11
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 11
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -16112,7 +16933,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 62
+=======
+  m_RootOrder: 70
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 70
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -16209,9 +17034,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: -19.695002, z: 0}
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: -19.695002, z: 0}
 --- !u!1 &1540515864
@@ -16307,6 +17135,9 @@ Transform:
   m_Father: {fileID: 94423998}
   m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &1543137397
 GameObject:
@@ -16396,6 +17227,7 @@ Transform:
   m_GameObject: {fileID: 1543137397}
   m_LocalRotation: {x: -0, y: 0.9876385, z: -0, w: 0.15674913}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 271.1367, y: -33.90776, z: 56.281067}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
@@ -16408,6 +17240,8 @@ Transform:
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
   m_LocalEulerAnglesHint: {x: 0, y: 161.964, z: 0}
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 719.3, y: 109.8, z: 581.55}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
@@ -16483,6 +17317,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e32b014d99bef14492d7c93cdeb28a3, type: 3}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &1551105445
 GameObject:
@@ -16576,7 +17413,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 20
+=======
+  m_RootOrder: 21
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 21
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -16657,12 +17498,15 @@ Transform:
   m_PrefabInstance: {fileID: 1557013266}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1559909674 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 488916835}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &1579039670
@@ -16757,7 +17601,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 58
+=======
+  m_RootOrder: 60
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 60
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -16917,10 +17765,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -16955,10 +17807,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -16967,7 +17823,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -17021,10 +17881,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -17059,10 +17923,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -17071,7 +17939,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -17086,10 +17958,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 15
 =======
       value: 14
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 15
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 15
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -17189,7 +18065,11 @@ MonoBehaviour:
   m_AffectDiffuse: 1
   m_AffectSpecular: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_NonLightmappedOnly: 1
+=======
+  m_NonLightmappedOnly: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_NonLightmappedOnly: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -17209,9 +18089,15 @@ MonoBehaviour:
   m_InteractsWithSky: 1
   m_AngularDiameter: 5
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_FlareSize: 39.3
   m_FlareTint: {r: 0, g: 0.92934775, b: 1, a: 1}
   m_FlareFalloff: 19
+=======
+  m_FlareSize: 2
+  m_FlareTint: {r: 1, g: 1, b: 1, a: 1}
+  m_FlareFalloff: 4
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_FlareSize: 2
   m_FlareTint: {r: 1, g: 1, b: 1, a: 1}
@@ -17286,7 +18172,11 @@ Light:
   m_Type: 1
   m_Shape: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Color: {r: 0.9490196, g: 0.9019608, b: 1, a: 1}
+=======
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -17331,15 +18221,21 @@ Light:
   m_RenderingLayerMask: 1
   m_Lightmapping: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LightShadowCasterMode: 1
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 0
   m_ColorTemperature: 6500
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LightShadowCasterMode: 2
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
   m_ColorTemperature: 6020
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -17444,7 +18340,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 41
+=======
+  m_RootOrder: 42
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 42
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -17537,6 +18437,7 @@ Transform:
   m_GameObject: {fileID: 1648470366}
   m_LocalRotation: {x: -0, y: -0.24955705, z: -0, w: 0.9683601}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 251.75668, y: -32.607765, z: 75.87109}
   m_LocalScale: {x: 0.689007, y: 18.16655, z: 18.16655}
   m_Children: []
@@ -17548,11 +18449,16 @@ Transform:
   m_RootOrder: 67
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 699.92, y: 111.1, z: 601.14}
   m_LocalScale: {x: 0.6890069, y: 18.16655, z: 18.16655}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 14
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: -28.903002, z: 0}
 --- !u!1001 &1649241201
@@ -17632,6 +18538,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &1652140313
@@ -17734,8 +18643,11 @@ Transform:
   m_PrefabInstance: {fileID: 1288547411}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &1668026590
@@ -17954,6 +18866,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 4771514051263318, guid: f7929b3a3952d9c41b729e4263e435e3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 16.471
@@ -18045,6 +18958,8 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1719042858}
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
     - target: {fileID: 4771514051263318, guid: f7929b3a3952d9c41b729e4263e435e3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 16.471
@@ -18066,6 +18981,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
     type: 3}
   m_PrefabInstance: {fileID: 2096694993}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1721621132
@@ -18132,6 +19050,7 @@ Transform:
   m_PrefabInstance: {fileID: 1721621132}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1735924551 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -18144,6 +19063,8 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1399495805}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &1743653785
@@ -18378,6 +19299,7 @@ Transform:
   m_GameObject: {fileID: 1752590530}
   m_LocalRotation: {x: -0, y: 0.9876385, z: -0, w: 0.15674913}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 263.6367, y: -33.90776, z: 78.831055}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
@@ -18389,11 +19311,16 @@ Transform:
   m_RootOrder: 77
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalPosition: {x: 711.8, y: 109.8, z: 604.1}
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 24
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 161.964, z: 0}
 --- !u!1 &1756508689
@@ -18488,7 +19415,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 42
+=======
+  m_RootOrder: 43
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 43
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -18563,10 +19494,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -18601,10 +19536,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -18613,7 +19552,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -18628,10 +19571,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 23
 =======
       value: 22
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 23
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 23
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -18835,7 +19782,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 57
+=======
+  m_RootOrder: 59
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 59
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -18932,7 +19883,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 35
+=======
+  m_RootOrder: 36
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 36
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19001,7 +19956,11 @@ Transform:
   m_PrefabInstance: {fileID: 1779429231}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1780805258
+=======
+--- !u!1 &1788460441
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 --- !u!1 &1788460441
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19013,16 +19972,22 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1780805259}
   m_Layer: 0
   m_Name: GrowableFlowersFolder
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   - component: {fileID: 1788460445}
   - component: {fileID: 1788460444}
   - component: {fileID: 1788460443}
   - component: {fileID: 1788460442}
   m_Layer: 0
   m_Name: Cube (11)
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19030,8 +19995,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1780805259
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!65 &1788460442
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19093,12 +20061,16 @@ MeshFilter:
   m_GameObject: {fileID: 1788460441}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &1788460445
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1780805258}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -19137,6 +20109,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 15
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_GameObject: {fileID: 1788460441}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 247.5867, y: -32.327766, z: -78.77893}
@@ -19144,6 +20118,9 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
   m_RootOrder: 63
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1789073196
@@ -19238,7 +20215,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 19
+=======
+  m_RootOrder: 20
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 20
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19468,7 +20449,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 38
+=======
+  m_RootOrder: 39
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 39
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19505,7 +20490,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 49
+=======
+  m_RootOrder: 50
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 50
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19577,10 +20566,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19615,10 +20608,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19627,7 +20624,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19642,10 +20643,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 17
 =======
       value: 16
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 17
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 17
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19782,10 +20787,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19820,10 +20829,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19832,7 +20845,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -19847,10 +20864,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 9
 =======
       value: 8
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 9
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 9
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20222,7 +21243,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 12
+=======
+  m_RootOrder: 13
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 13
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20503,7 +21528,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 2
+=======
+      value: 3
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 3
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20607,10 +21636,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20645,10 +21678,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20657,7 +21694,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20672,10 +21713,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 24
 =======
       value: 23
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 24
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 24
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20804,7 +21849,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 50
+=======
+  m_RootOrder: 51
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 51
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20994,7 +22043,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 61
+=======
+  m_RootOrder: 69
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 69
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21006,10 +22059,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21044,10 +22101,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21056,7 +22117,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21071,10 +22136,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 18
 =======
       value: 17
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 18
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 18
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21124,10 +22193,14 @@ PrefabInstance:
   m_Modification:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+    m_TransformParent: {fileID: 1947203393}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21162,10 +22235,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.13052595
 =======
       value: -0
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: -0.13052595
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21174,7 +22251,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0
+=======
+      value: 0
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21189,10 +22270,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 6
 =======
       value: 5
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 6
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 6
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21381,6 +22466,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &1946638879
@@ -21513,6 +22601,7 @@ Transform:
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &1940911837 stripped
 Transform:
@@ -21521,6 +22610,8 @@ Transform:
   m_PrefabInstance: {fileID: 1610019615}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &1963354082 stripped
@@ -21611,12 +22702,15 @@ Transform:
   m_PrefabInstance: {fileID: 1972982282}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1979357705 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
     type: 3}
   m_PrefabInstance: {fileID: 1213983830}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &1984454892
@@ -21774,7 +22868,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 64
+=======
+  m_RootOrder: 72
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 72
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21871,7 +22969,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 56
+=======
+  m_RootOrder: 57
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 57
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21968,7 +23070,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 24
+=======
+  m_RootOrder: 25
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 25
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -22030,7 +23136,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
+=======
+      value: 2
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 2
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -22144,7 +23254,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 46
+=======
+  m_RootOrder: 47
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 47
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -22316,7 +23430,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 51
+=======
+  m_RootOrder: 52
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 52
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -22397,13 +23515,19 @@ Transform:
   m_PrefabInstance: {fileID: 2045561688}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &2048527482 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
     type: 3}
   m_PrefabInstance: {fileID: 1549562102}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &2057136067
 GameObject:
@@ -22497,7 +23621,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 26
+=======
+  m_RootOrder: 27
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 27
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -22584,7 +23712,10 @@ Transform:
   m_PrefabInstance: {fileID: 2084515592}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &2096694993
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22654,6 +23785,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e32b014d99bef14492d7c93cdeb28a3, type: 3}
+<<<<<<< HEAD
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &2102765418
 PrefabInstance:
@@ -23089,7 +24223,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 11
+=======
+  m_RootOrder: 12
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 12
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -23186,6 +24324,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 94423998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: -49.686, z: 0}
 --- !u!4 &2145485790 stripped
@@ -23194,6 +24333,10 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1211129275}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: -49.686, z: 0}
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: -49.686, z: 0}
@@ -23245,10 +24388,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 26
 =======
       value: 12
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 26
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 26
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -23389,10 +24536,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 2
 =======
   m_RootOrder: 4
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+  m_RootOrder: 2
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 2
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -23894,7 +25045,11 @@ Transform:
   - {fileID: 3777760676550739663}
   m_Father: {fileID: 1145263000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+  m_RootOrder: 10
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 10
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -24018,7 +25173,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 13
+=======
+      value: 17
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 17
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -24171,7 +25330,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 11
+=======
+      value: 15
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 15
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -24532,7 +25695,11 @@ Transform:
   - {fileID: 6346401210654341891}
   m_Father: {fileID: 1145263000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 5
+=======
+  m_RootOrder: 13
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 13
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -24631,10 +25798,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 27
 =======
       value: 13
 >>>>>>> fc25db759a1779660d1416530fb6fd46e2f8ca57
+=======
+      value: 27
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
       value: 27
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -24707,7 +25878,11 @@ Transform:
   - {fileID: 8559430911057199215}
   m_Father: {fileID: 1145263000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+  m_RootOrder: 12
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 12
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -24883,7 +26058,11 @@ Transform:
   - {fileID: 8596798595519511086}
   m_Father: {fileID: 1145263000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 9
+=======
+  m_RootOrder: 14
+>>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 14
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
