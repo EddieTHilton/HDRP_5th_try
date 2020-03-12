@@ -43,6 +43,7 @@ RenderSettings:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 2.641458, g: 2.467632, b: 2.6898766, a: 1}
 =======
   m_IndirectSpecularColor: {r: 1.1885918, g: 0.87845546, b: 1.5855343, a: 1}
@@ -59,6 +60,9 @@ RenderSettings:
 =======
   m_IndirectSpecularColor: {r: 2.641458, g: 2.467632, b: 2.6898766, a: 1}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>> parent of e368a06b... Minor Changes
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -222,6 +226,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
@@ -340,6 +345,8 @@ MeshFilter:
 >>>>>>> parent of e368a06b... Minor Changes
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!4 &18232575 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
@@ -592,6 +599,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 3
 =======
       value: 4
@@ -608,6 +616,9 @@ PrefabInstance:
 =======
       value: 3
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 33
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 4988732065817576874, guid: 1a4edaab6107d3445afac80d8b7e5b10,
         type: 3}
@@ -656,6 +667,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -672,6 +684,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -682,41 +697,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 307.61
 =======
       value: -632.9247
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 307.61
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 107.85
 =======
       value: -0.17890024
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 107.85
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 634.87
 =======
       value: -4.019499
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 634.87
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -738,6 +770,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -760,14 +795,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -789,6 +829,9 @@ PrefabInstance:
 =======
       value: 7
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 8
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -805,6 +848,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -841,6 +885,8 @@ Transform:
       propertyPath: m_LocalScale.z
       value: 0.05134372
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -1029,6 +1075,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -1045,6 +1092,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -1055,41 +1105,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 296.04
 =======
       value: -648.05756
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 296.04
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.35
 =======
       value: -0.096330896
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.35
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 626.99
 =======
       value: -4.528631
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 626.99
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1111,6 +1178,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -1133,14 +1203,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1162,6 +1237,9 @@ PrefabInstance:
 =======
       value: 28
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 29
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -1178,6 +1256,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -1202,6 +1281,8 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.05134372
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -1371,6 +1452,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 41.000004, y: 0, z: 0}
 <<<<<<< HEAD
@@ -1383,6 +1465,9 @@ Transform:
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_RootOrder: 8
+=======
+  m_RootOrder: 38
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 41.000004, y: 0, z: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &94423997
@@ -1533,6 +1618,7 @@ Transform:
   - {fileID: 18214726}
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 9
 =======
   m_RootOrder: 10
@@ -1553,6 +1639,9 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 39
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &97213138
 PrefabInstance:
@@ -1749,6 +1838,7 @@ Transform:
 =======
   m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: -0.263, z: 0}
+<<<<<<< HEAD
 --- !u!4 &124565305 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -1756,6 +1846,8 @@ Transform:
   m_PrefabInstance: {fileID: 488916835}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &161762904
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2677,6 +2769,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -2693,6 +2786,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -2703,41 +2799,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 297.98
 =======
       value: -645.1338
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 297.98
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.93
 =======
       value: -0.11945021
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.93
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 627.41
 =======
       value: -4.485054
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 627.41
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2759,6 +2872,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -2781,14 +2897,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2810,6 +2931,9 @@ PrefabInstance:
 =======
       value: 25
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 26
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -2826,6 +2950,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
 <<<<<<< HEAD
@@ -2859,6 +2984,8 @@ Transform:
       propertyPath: m_LocalScale.z
       value: 0.05134372
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -3077,6 +3204,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -3093,6 +3221,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -3103,41 +3234,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 296.58
 =======
       value: -647.961
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 296.58
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.59
 =======
       value: -0.08311992
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.59
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 628.78
 =======
       value: -4.4389205
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 628.78
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3159,6 +3307,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -3181,14 +3332,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3210,6 +3366,9 @@ PrefabInstance:
 =======
       value: 26
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 27
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -3226,6 +3385,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -3252,14 +3412,10 @@ GameObject:
       propertyPath: m_LocalScale.z
       value: 0.05134372
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
---- !u!4 &286067701 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
-    type: 3}
-  m_PrefabInstance: {fileID: 658177591}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &286115058
 GameObject:
   m_ObjectHideFlags: 0
@@ -3364,6 +3520,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -3380,6 +3537,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -3390,41 +3550,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 306.01
 =======
       value: -636.029
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 306.01
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.66
 =======
       value: -0.13431251
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.66
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 636.14
 =======
       value: -3.980489
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 636.14
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3446,6 +3623,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -3468,14 +3648,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3497,6 +3682,9 @@ PrefabInstance:
 =======
       value: 8
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 9
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -3513,6 +3701,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -3531,6 +3720,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &302721898
@@ -3687,6 +3878,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
@@ -3718,6 +3910,8 @@ Transform:
 =======
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &342692417
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3786,6 +3980,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
@@ -3817,6 +4012,8 @@ Transform:
 =======
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &364850813
 GameObject:
   m_ObjectHideFlags: 0
@@ -4008,6 +4205,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 4
 =======
   m_RootOrder: 6
@@ -4024,6 +4222,9 @@ Transform:
 =======
   m_RootOrder: 4
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 34
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 135, z: 0}
 --- !u!1001 &364922459
 PrefabInstance:
@@ -4805,6 +5006,7 @@ Transform:
   m_PrefabInstance: {fileID: 387593072}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &390442240 stripped
 Transform:
@@ -4813,6 +5015,8 @@ Transform:
   m_PrefabInstance: {fileID: 949810032}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &391001387
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5342,6 +5546,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -5358,6 +5563,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -5368,41 +5576,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 303.89
 =======
       value: -638.36194
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 303.89
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.94
 =======
       value: -0.11889963
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.94
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 633.67
 =======
       value: -4.12136
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 633.67
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5424,6 +5649,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -5446,14 +5674,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5475,6 +5708,9 @@ PrefabInstance:
 =======
       value: 11
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 12
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -5491,6 +5727,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -5509,6 +5746,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1 &436679029
@@ -6183,6 +6422,7 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 30.000002, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &470631914 stripped
 Transform:
@@ -6191,6 +6431,8 @@ Transform:
   m_PrefabInstance: {fileID: 281990767}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &473353765
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6377,6 +6619,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 22
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -6388,6 +6631,9 @@ Transform:
 =======
   m_RootOrder: 22
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 51
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 161.964, z: 0}
 --- !u!1001 &481339764
 PrefabInstance:
@@ -6465,6 +6711,7 @@ Transform:
   m_PrefabInstance: {fileID: 481339764}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &484994319 stripped
 Transform:
@@ -6473,6 +6720,8 @@ Transform:
   m_PrefabInstance: {fileID: 299481648}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &485515351
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6560,6 +6809,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -6576,6 +6826,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -6586,41 +6839,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 298.8
 =======
       value: -646.6728
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 298.8
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 110.49
 =======
       value: -0.033578232
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 110.49
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 634.06
 =======
       value: -4.166516
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 634.06
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6642,6 +6912,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -6664,14 +6937,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6693,6 +6971,9 @@ PrefabInstance:
 =======
       value: 13
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 14
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -6709,6 +6990,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -6727,6 +7009,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1 &492133814
@@ -6839,6 +7123,7 @@ Transform:
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 10.934628}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 17
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6850,6 +7135,9 @@ Transform:
 >>>>>>> parent of e368a06b... Minor Changes
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 46
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 65.187004, z: 0}
 --- !u!1001 &498975446
 PrefabInstance:
@@ -7218,6 +7506,7 @@ Transform:
   m_PrefabInstance: {fileID: 501622068}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &508153605 stripped
 Transform:
@@ -7226,6 +7515,8 @@ Transform:
   m_PrefabInstance: {fileID: 1358507303}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &508346478
 GameObject:
   m_ObjectHideFlags: 0
@@ -7472,6 +7763,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 7
 =======
   m_RootOrder: 9
@@ -7488,6 +7780,9 @@ Transform:
 =======
   m_RootOrder: 7
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 37
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &518277032
 GameObject:
@@ -7600,6 +7895,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 20
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -7611,6 +7907,9 @@ Transform:
 =======
   m_RootOrder: 20
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 49
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 71.964005, z: 0}
 --- !u!1 &520908906
 GameObject:
@@ -7723,6 +8022,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 21
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -7734,6 +8034,9 @@ Transform:
 =======
   m_RootOrder: 21
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 50
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 71.964005, z: 0}
 --- !u!1001 &525879929
 PrefabInstance:
@@ -8048,6 +8351,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
@@ -8079,6 +8383,8 @@ Transform:
 =======
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &592579297
 GameObject:
   m_ObjectHideFlags: 0
@@ -8339,6 +8645,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
@@ -8477,11 +8784,14 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 634174914}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &658177591
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1780805259}
 =======
     m_TransformParent: {fileID: 1947203393}
@@ -8572,6 +8882,9 @@ PrefabInstance:
       propertyPath: m_LocalRotation.x
 =======
     m_TransformParent: {fileID: 1947203393}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -8581,27 +8894,27 @@ PrefabInstance:
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -646.64526
+      value: 298.3
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.04954169
+      value: 110.2
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4.2622185
+      value: 632.13
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.13052595
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -8611,12 +8924,12 @@ PrefabInstance:
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9914449
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -8692,6 +9005,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -8708,6 +9022,8 @@ PrefabInstance:
       value: 0.05134372
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &668312777
@@ -9262,6 +9578,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -9278,6 +9595,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -9288,41 +9608,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 294.79
 =======
       value: -650.8377
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 294.79
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 110.08
 =======
       value: -0.05614697
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 110.08
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 628.81
 =======
       value: -4.4597707
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 628.81
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9344,6 +9681,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -9366,14 +9706,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9395,6 +9740,9 @@ PrefabInstance:
 =======
       value: 27
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 28
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -9411,6 +9759,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -9439,6 +9788,10 @@ Transform:
   m_PrefabInstance: {fileID: 425922056}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &725702691
 GameObject:
   m_ObjectHideFlags: 0
@@ -9554,6 +9907,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -9570,6 +9924,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -9580,41 +9937,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 307.901
 =======
       value: -633.19385
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 307.901
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.08
 =======
       value: -0.16623943
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.08
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 636.584
 =======
       value: -3.9364085
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 636.584
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9636,6 +10010,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -9658,19 +10035,27 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 2
 =======
       value: 1
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 2
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -9687,6 +10072,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -9705,6 +10091,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &741126425
@@ -10084,6 +10472,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 =======
   sharedProfile: {fileID: 11400000, guid: 183cbd347d25080429f42b520742bbd8, type: 2}
+<<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &765457044 stripped
 Transform:
@@ -10105,6 +10494,8 @@ Transform:
 >>>>>>> parent of e368a06b... Minor Changes
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!4 &776556704 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
@@ -10222,6 +10613,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 13
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10233,6 +10625,9 @@ Transform:
 =======
   m_RootOrder: 13
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 42
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 15.000001, z: 0}
 --- !u!1 &806309570
 GameObject:
@@ -10345,6 +10740,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 15
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -10356,6 +10752,9 @@ Transform:
 =======
   m_RootOrder: 15
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 44
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 11.991, z: 0}
 --- !u!1 &811444227
 GameObject:
@@ -10436,6 +10835,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 5
 =======
   m_RootOrder: 7
@@ -10460,11 +10860,16 @@ Transform:
   m_PrefabInstance: {fileID: 1889607963}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 0.09, y: 0, z: 0}
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &813338171
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10486,6 +10891,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -10496,41 +10904,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 293.93
 =======
       value: -651.4034
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 293.93
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.8
 =======
       value: -0.07155985
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.8
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 626.92
 =======
       value: -4.5580926
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 626.92
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10552,6 +10977,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -10574,14 +11002,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10603,6 +11036,9 @@ PrefabInstance:
 =======
       value: 29
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 30
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -10619,6 +11055,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -10637,6 +11074,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &820900571
@@ -11142,6 +11581,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 16
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -11153,6 +11593,9 @@ Transform:
 =======
   m_RootOrder: 16
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 45
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 65.187004, z: 0}
 --- !u!1 &906097535
 GameObject:
@@ -11666,6 +12109,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -11682,6 +12126,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -11692,41 +12139,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 303.43
 =======
       value: -640.474
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 303.43
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.91
 =======
       value: -0.06550472
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.91
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 636.88
 =======
       value: -3.978232
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 636.88
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11748,6 +12212,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -11770,19 +12237,27 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 5
 =======
       value: 4
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 5
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -11799,6 +12274,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -11827,6 +12303,10 @@ Transform:
   m_PrefabInstance: {fileID: 738040329}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &949030285
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11912,6 +12392,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -11928,6 +12409,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -11938,41 +12422,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 299.32
 =======
       value: -644.48175
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 299.32
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.48
 =======
       value: -0.08917462
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.48
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 630.89
 =======
       value: -4.3070416
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 630.89
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11994,6 +12495,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -12016,14 +12520,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12045,6 +12554,9 @@ PrefabInstance:
 =======
       value: 21
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 22
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -12061,6 +12573,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -12085,6 +12598,8 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.05134372
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -12586,6 +13101,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -12602,6 +13118,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -12612,41 +13131,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 303.16
 =======
       value: -638.6725
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 303.16
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.73
 =======
       value: -0.1304593
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.73
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 631.67
 =======
       value: -4.2231665
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 631.67
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12668,6 +13204,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -12690,14 +13229,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12719,6 +13263,9 @@ PrefabInstance:
 =======
       value: 14
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 15
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -12735,6 +13282,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -12763,6 +13311,10 @@ Transform:
   m_PrefabInstance: {fileID: 1211129275}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &1078704207
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12984,7 +13536,7 @@ Transform:
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 =======
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1001 &1123657584
@@ -13072,6 +13624,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -13088,6 +13641,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -13098,41 +13654,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 300.12
 =======
       value: -642.5845
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 300.12
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.94
 =======
       value: -0.11889963
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.94
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 629.45
 =======
       value: -4.363873
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 629.45
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13154,6 +13727,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -13176,14 +13752,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13205,6 +13786,9 @@ PrefabInstance:
 =======
       value: 20
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 21
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -13221,6 +13805,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -13239,6 +13824,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &1135525250
@@ -13456,6 +14043,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 11
 =======
   m_RootOrder: 12
@@ -13472,6 +14060,9 @@ Transform:
 =======
   m_RootOrder: 11
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 41
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1148572594
 GameObject:
@@ -13770,6 +14361,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 18
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -13781,6 +14373,9 @@ Transform:
 =======
   m_RootOrder: 18
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 47
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 71.964005, z: 0}
 --- !u!1 &1188868136
 GameObject:
@@ -13893,8 +14488,12 @@ Transform:
   m_LocalScale: {x: 0.41472015, y: 22.159023, z: 12.558419}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 23
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 52
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 161.964, z: 0}
 --- !u!4 &1191423756 stripped
 Transform:
@@ -14025,6 +14624,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -14041,6 +14641,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14051,32 +14654,45 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 307.03
 =======
       value: -635.1559
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 307.03
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.68
 =======
       value: -0.13321176
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.68
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 637.91
 =======
       value: -3.8857462
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 637.91
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
+<<<<<<< HEAD
 <<<<<<< HEAD
       value: 0
       objectReference: {fileID: 0}
@@ -14102,12 +14718,19 @@ PrefabInstance:
 >>>>>>> parent of e368a06b... Minor Changes
 =======
       value: -0
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14130,19 +14753,27 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 3
 =======
       value: 2
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 3
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14159,6 +14790,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -14177,6 +14809,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &1213983830
@@ -14189,6 +14823,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -14205,6 +14840,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14215,41 +14853,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 309.32
 =======
       value: -630.5318
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 309.32
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 107.47
 =======
       value: -0.19981766
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 107.47
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 635.67
 =======
       value: -3.9611592
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 635.67
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14271,6 +14926,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14293,19 +14951,27 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14322,6 +14988,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -14340,6 +15007,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &1214140709
@@ -14654,6 +15323,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 19
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -14665,12 +15335,16 @@ Transform:
 =======
   m_RootOrder: 19
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 48
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 71.964005, z: 0}
 --- !u!1001 &1220265987
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14692,6 +15366,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14702,41 +15379,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 302.63
 =======
       value: -640.9694
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 302.63
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.57
 =======
       value: -0.08422066
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.57
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 635.05
 =======
       value: -4.0730257
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 635.05
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14758,6 +15452,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14780,14 +15477,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14809,6 +15511,9 @@ PrefabInstance:
 =======
       value: 12
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 13
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -14825,6 +15530,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -14843,6 +15549,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1 &1224764586
@@ -15136,55 +15844,79 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 0}
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 300.66
 =======
       value: -644.48987
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 300.66
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.23
 =======
       value: -0.10293618
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.23
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 635.91
 =======
       value: -4.057626
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 635.91
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
@@ -15195,14 +15927,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15224,6 +15961,9 @@ PrefabInstance:
 =======
       value: 5
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 6
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
@@ -15240,6 +15980,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 8611408748055165437, guid: 3b59fcfd37a84b8498ac176e86294a15,
@@ -15258,6 +15999,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     - target: {fileID: 8676981481627940391, guid: 3b59fcfd37a84b8498ac176e86294a15,
         type: 3}
       propertyPath: m_Name
@@ -15888,6 +16631,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -15904,6 +16648,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -15914,41 +16661,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 301.35
 =======
       value: -641.3454
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 301.35
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109
 =======
       value: -0.115596995
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 631.15
 =======
       value: -4.269764
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 631.15
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15970,6 +16734,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -15992,14 +16759,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16021,6 +16793,9 @@ PrefabInstance:
 =======
       value: 16
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 17
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -16037,6 +16812,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -16092,6 +16868,10 @@ Transform:
 =======
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &1297224952
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16160,6 +16940,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &1319528329 stripped
@@ -16193,6 +16974,8 @@ Transform:
 =======
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &1330804229
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16377,6 +17160,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -16393,6 +17177,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -16403,41 +17190,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 295.485
 =======
       value: -650.50476
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 295.485
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 110.45
 =======
       value: -0.03578013
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 110.45
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 630.627
 =======
       value: -4.3668838
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 630.627
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16459,6 +17263,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -16481,14 +17288,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16545,22 +17357,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
 =======
+=======
+      value: 23
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5105326
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.055046227
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
+<<<<<<< HEAD
       propertyPath: m_LocalScale.z
       value: 0.05134372
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -16705,6 +17525,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 10
 =======
   m_RootOrder: 11
@@ -16735,6 +17556,10 @@ Transform:
   m_PrefabInstance: {fileID: 1125772299}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 40
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &1382785969
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16907,6 +17732,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -16923,6 +17749,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -16933,41 +17762,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 304.27
 =======
       value: -638.5985
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 304.27
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.94
 =======
       value: -0.11889963
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.94
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 635.64
 =======
       value: -4.025292
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 635.64
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16989,6 +17835,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -17011,14 +17860,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17040,6 +17894,9 @@ PrefabInstance:
 =======
       value: 10
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 11
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -17056,6 +17913,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -17074,6 +17932,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &1402910781
@@ -17736,6 +18596,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 2
@@ -17752,6 +18613,9 @@ PrefabInstance:
 =======
       value: 1
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 31
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 4988732065817576874, guid: 1a4edaab6107d3445afac80d8b7e5b10,
         type: 3}
@@ -18075,6 +18939,7 @@ Transform:
 =======
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &1501634664 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -18082,6 +18947,8 @@ Transform:
   m_PrefabInstance: {fileID: 1220265987}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &1516654385
 GameObject:
   m_ObjectHideFlags: 0
@@ -18997,10 +19864,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 54
 =======
   m_RootOrder: 25
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 54
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 161.964, z: 0}
 --- !u!1001 &1549562102
 PrefabInstance:
@@ -19454,6 +20325,7 @@ Transform:
   m_PrefabInstance: {fileID: 1594187971}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &1601963593 stripped
 Transform:
@@ -19462,6 +20334,8 @@ Transform:
   m_PrefabInstance: {fileID: 58887432}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &1603265992
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19539,6 +20413,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -19555,6 +20430,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -19565,41 +20443,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 305.08
 =======
       value: -638.16
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 305.08
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.2
 =======
       value: -0.10458791
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.2
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 637.64
 =======
       value: -3.9224918
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 637.64
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19621,6 +20516,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -19643,19 +20541,27 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 4
 =======
       value: 3
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 4
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -19672,6 +20578,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -19690,6 +20597,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &1622131988
@@ -19697,6 +20606,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19718,6 +20628,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -19728,41 +20641,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 302.08
 =======
       value: -641.00916
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 302.08
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.28
 =======
       value: -0.10018411
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.28
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 633.09
 =======
       value: -4.17074
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 633.09
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19784,6 +20714,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -19806,14 +20739,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19835,6 +20773,9 @@ PrefabInstance:
 =======
       value: 15
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 16
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -19851,6 +20792,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -19869,6 +20811,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1 &1627284617
@@ -20132,6 +21076,7 @@ Light:
   m_ShadowRadius: 0
   m_ShadowAngle: 5
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &1641154710 stripped
 Transform:
@@ -20140,6 +21085,8 @@ Transform:
   m_PrefabInstance: {fileID: 926502649}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &1641960597
 GameObject:
   m_ObjectHideFlags: 0
@@ -20356,6 +21303,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 14
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -20367,6 +21315,9 @@ Transform:
 =======
   m_RootOrder: 14
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 43
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: -28.903002, z: 0}
 --- !u!1001 &1649241201
 PrefabInstance:
@@ -20548,6 +21499,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!4 &1655445112 stripped
@@ -20569,6 +21521,8 @@ Transform:
 >>>>>>> parent of e368a06b... Minor Changes
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &1668026590
 GameObject:
   m_ObjectHideFlags: 0
@@ -21134,6 +22088,7 @@ Transform:
   m_PrefabInstance: {fileID: 1746081892}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &1750930223 stripped
 Transform:
@@ -21142,6 +22097,8 @@ Transform:
   m_PrefabInstance: {fileID: 1610019615}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &1752590530
 GameObject:
   m_ObjectHideFlags: 0
@@ -21253,6 +22210,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 24
 <<<<<<< HEAD
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
@@ -21264,6 +22222,9 @@ Transform:
 =======
   m_RootOrder: 24
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 53
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 161.964, z: 0}
 --- !u!1 &1756508689
 GameObject:
@@ -21443,6 +22404,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -21459,6 +22421,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -21469,41 +22434,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 297.265
 =======
       value: -647.6813
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 297.265
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 110.036
 =======
       value: -0.05856893
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 110.036
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 630.684
 =======
       value: -4.3421254
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 630.684
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21525,6 +22507,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -21547,14 +22532,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21576,6 +22566,9 @@ PrefabInstance:
 =======
       value: 23
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 24
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -21596,6 +22589,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -21612,6 +22606,8 @@ PrefabInstance:
       value: 0.05134372
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &1763908062
@@ -22257,6 +23253,7 @@ Transform:
 =======
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: -49.686, z: 0}
+<<<<<<< HEAD
 --- !u!4 &1800085725 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -22264,6 +23261,8 @@ Transform:
   m_PrefabInstance: {fileID: 1758644207}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1 &1810446241
 GameObject:
   m_ObjectHideFlags: 0
@@ -22611,6 +23610,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -22627,6 +23627,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -22637,41 +23640,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 300.22
 =======
       value: -643.7749
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 300.22
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.67
 =======
       value: -0.07871612
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.67
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 632.6
 =======
       value: -4.216572
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 632.6
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22693,6 +23713,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -22715,14 +23738,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22744,6 +23772,9 @@ PrefabInstance:
 =======
       value: 17
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 18
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -22760,6 +23791,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -22778,6 +23810,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1 &1846134788
@@ -22883,6 +23917,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -22899,6 +23934,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -22909,41 +23947,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 305.66
 =======
       value: -635.8302
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 305.66
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.44
 =======
       value: -0.14642274
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.44
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 634.37
 =======
       value: -4.0669103
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 634.37
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22965,6 +24020,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -22987,14 +24045,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23016,6 +24079,9 @@ PrefabInstance:
 =======
       value: 9
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 10
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -23032,6 +24098,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -23050,6 +24117,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1 &1859926582
@@ -23791,6 +24860,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -23807,6 +24877,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -23817,41 +24890,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 298.458
 =======
       value: -645.1621
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 298.458
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 109.354
 =======
       value: -0.096110836
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 109.354
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 629.26
 =======
       value: -4.393332
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 629.26
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23873,6 +24963,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -23895,14 +24988,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23924,6 +25022,9 @@ PrefabInstance:
 =======
       value: 24
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 25
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -23940,6 +25041,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -23958,6 +25060,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1 &1905258509
@@ -24273,6 +25377,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1947203393}
 =======
     m_TransformParent: {fileID: 1780805259}
@@ -24289,6 +25394,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -24299,41 +25407,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 296.498
 =======
       value: -649.67755
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 296.498
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 110.701
 =======
       value: -0.02196356
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 110.701
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 632.478
 =======
       value: -4.26847
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 632.478
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24355,6 +25480,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -24377,14 +25505,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24406,6 +25539,9 @@ PrefabInstance:
 =======
       value: 18
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 19
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -24422,6 +25558,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
@@ -24450,11 +25587,16 @@ Transform:
   m_PrefabInstance: {fileID: 723423549}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &1918730335
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24476,6 +25618,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 1947203393}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of e368a06b... Minor Changes
     m_Modifications:
     - target: {fileID: 2099028270836771928, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -24486,41 +25631,58 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 304.91
 =======
       value: -636.0955
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 304.91
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 108.27
 =======
       value: -0.15578093
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 108.27
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 632.19
 =======
       value: -4.1773114
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 632.19
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: -0
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24542,6 +25704,9 @@ PrefabInstance:
 =======
       value: -0.13052595
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 0
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -24564,14 +25729,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0.9914449
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 1
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24593,6 +25763,9 @@ PrefabInstance:
 =======
       value: 6
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 7
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
         type: 3}
@@ -24609,6 +25782,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -24627,6 +25801,8 @@ PrefabInstance:
       value: 0.05134372
       objectReference: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c33b75d6f9984d54c973d06409d63e50, type: 3}
 --- !u!1001 &1932116429
@@ -24860,6 +26036,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 9e32b014d99bef14492d7c93cdeb28a3, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
 --- !u!1 &1947203392
@@ -24941,12 +26118,15 @@ Transform:
 >>>>>>> parent of e368a06b... Minor Changes
 =======
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!4 &1963354082 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3119344339909538440, guid: 9e32b014d99bef14492d7c93cdeb28a3,
     type: 3}
   m_PrefabInstance: {fileID: 1532085888}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!4 &1968741680 stripped
@@ -24956,6 +26136,8 @@ Transform:
   m_PrefabInstance: {fileID: 1252935607}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &1972982282
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25424,6 +26606,7 @@ Transform:
 =======
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &2028766235 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -25431,6 +26614,8 @@ Transform:
   m_PrefabInstance: {fileID: 48071281}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &2037806233
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25998,6 +27183,7 @@ Transform:
 =======
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 46.051003, z: 0}
+<<<<<<< HEAD
 --- !u!4 &2072078221 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2099028270836771931, guid: c33b75d6f9984d54c973d06409d63e50,
@@ -26005,6 +27191,8 @@ Transform:
   m_PrefabInstance: {fileID: 1399495805}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+>>>>>>> parent of e368a06b... Minor Changes
 --- !u!1001 &2084515592
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26775,6 +27963,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 26
 =======
       value: 12
@@ -26791,6 +27980,9 @@ PrefabInstance:
 =======
       value: 26
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 55
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 560792283576868743, guid: 65eb8b4a194a65e478d5753a69ab00f9,
         type: 3}
@@ -26931,6 +28123,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 2
 =======
   m_RootOrder: 4
@@ -26947,6 +28140,9 @@ Transform:
 =======
   m_RootOrder: 2
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+  m_RootOrder: 32
+>>>>>>> parent of e368a06b... Minor Changes
   m_LocalEulerAnglesHint: {x: 0, y: 120.00001, z: 0}
 --- !u!4 &2363709021276863705
 Transform:
@@ -28217,6 +29413,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 27
 =======
       value: 13
@@ -28233,6 +29430,9 @@ PrefabInstance:
 =======
       value: 27
 >>>>>>> parent of cc458378... Merge branch 'master' of https://github.com/EddieTHilton/HDRP_5th_try
+=======
+      value: 56
+>>>>>>> parent of e368a06b... Minor Changes
       objectReference: {fileID: 0}
     - target: {fileID: 6513706115345428479, guid: d395e882605b87b4ebee022d437fea38,
         type: 3}
