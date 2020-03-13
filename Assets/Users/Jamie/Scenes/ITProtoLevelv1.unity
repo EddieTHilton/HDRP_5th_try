@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 1.1885918, g: 0.87845546, b: 1.5855343, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -7747,7 +7747,7 @@ GameObject:
   - component: {fileID: 762788052}
   - component: {fileID: 762788053}
   m_Layer: 0
-  m_Name: Global Volume
+  m_Name: PostProcessing Volume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9972,7 +9972,7 @@ Transform:
   - {fileID: 1382785970}
   - {fileID: 1348628910}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1148572594
 GameObject:
@@ -20006,7 +20006,7 @@ Transform:
   - {fileID: 2368306913429581452}
   - {fileID: 2133138241}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 120.00001, z: 0}
 --- !u!4 &2363709021276863705
 Transform:
