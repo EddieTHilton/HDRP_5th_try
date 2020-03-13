@@ -16,13 +16,13 @@ MonoBehaviour:
   m_AdvancedMode: 0
   quality:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 1
   rayTracing:
     m_OverrideState: 0
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 4
+    m_Value: 1
     min: 0
     max: 4
   directLightingStrength:
@@ -36,16 +36,16 @@ MonoBehaviour:
     min: 0.25
     max: 5
   temporalAccumulation:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   ghostingReduction:
     m_OverrideState: 1
-    m_Value: 0.537
+    m_Value: 1
     min: 0
     max: 1
   blurSharpness:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: 1
     min: 0
     max: 1
   layerMask:
@@ -112,7 +112,7 @@ MonoBehaviour:
     min: 0
   indirectDiffuseIntensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.005
     min: 0
 --- !u!114 &11400000
 MonoBehaviour:
@@ -156,7 +156,7 @@ MonoBehaviour:
     m_Value: 0
   exposure:
     m_OverrideState: 0
-    m_Value: 1
+    m_Value: 0.21
   multiplier:
     m_OverrideState: 0
     m_Value: 0
@@ -180,7 +180,7 @@ MonoBehaviour:
     min: 0
   includeSunInBaking:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   earthPreset:
     m_OverrideState: 1
     m_Value: 1
@@ -224,18 +224,18 @@ MonoBehaviour:
     min: 0
   aerosolDensity:
     m_OverrideState: 1
-    m_Value: 0.01192826
+    m_Value: 0
     min: 0
     max: 1
   aerosolTint:
     m_OverrideState: 1
-    m_Value: {r: 0.9, g: 0.9, b: 0.9, a: 1}
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
   aerosolMaximumAltitude:
     m_OverrideState: 1
-    m_Value: 8289.296
+    m_Value: 500
     min: 0
   aerosolAnisotropy:
     m_OverrideState: 0
@@ -244,12 +244,12 @@ MonoBehaviour:
     max: 1
   numberOfBounces:
     m_OverrideState: 1
-    m_Value: 8
+    m_Value: 4
     min: 1
     max: 10
   groundTint:
     m_OverrideState: 1
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 0
@@ -293,19 +293,19 @@ MonoBehaviour:
     max: 1
   horizonTint:
     m_OverrideState: 1
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value: {r: 0.811718, g: 0, b: 1, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 0
   zenithTint:
     m_OverrideState: 1
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value: {r: 1, g: 0, b: 0.8314495, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 0
   horizonZenithShift:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: -1
     min: -1
     max: 1
 --- !u!114 &3912485203739470195
@@ -347,7 +347,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   enabled:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   colorMode:
     m_OverrideState: 1
     m_Value: 1
@@ -379,28 +379,28 @@ MonoBehaviour:
     m_Value: 0
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 246.7
+    m_Value: 325
   albedo:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 254.14
+    m_Value: 250
     min: 1
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
   anisotropy:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.85
     min: -1
     max: 1
   globalLightProbeDimmer:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.5
     min: 0
     max: 1
   depthExtent:
