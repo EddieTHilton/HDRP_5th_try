@@ -15,7 +15,7 @@ MonoBehaviour:
   active: 1
   m_AdvancedMode: 0
   postExposure:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   contrast:
     m_OverrideState: 1
@@ -29,13 +29,13 @@ MonoBehaviour:
     showAlpha: 0
     showEyeDropper: 1
   hueShift:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
     min: -180
     max: 180
   saturation:
     m_OverrideState: 1
-    m_Value: 50
+    m_Value: 100
     min: -100
     max: 100
 --- !u!114 &-1317789045119592125
@@ -66,11 +66,11 @@ MonoBehaviour:
     max: 1
   scatter:
     m_OverrideState: 1
-    m_Value: 0.5
+    m_Value: 0.8
     min: 0
     max: 1
   tint:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {r: 0.5529412, g: 0.9148282, b: 0.9811321, a: 1}
     hdr: 0
     showAlpha: 0
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d08ce26990eb1a4a9177b860541e702, type: 3}
   m_Name: Exposure
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   m_AdvancedMode: 0
   mode:
     m_OverrideState: 1
@@ -233,7 +233,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.1
+    m_Value: 0.404
     min: 0
     max: 1
   smoothness:
