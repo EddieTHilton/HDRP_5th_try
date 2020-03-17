@@ -1,18 +1,24 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EventTrackerScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public int majorEventsTotal = 0;
+    public int majorEventsActive = 0;
+
+    private GameObject MajorTracker;
+
+    private void Start()
     {
-        
+        MajorTracker = GameObject.Find("Major Events");
+
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        MajorTracker.GetComponent<Text>().text = ("Major Events: \n" + majorEventsTotal + " / " + majorEventsActive);
     }
+
 }

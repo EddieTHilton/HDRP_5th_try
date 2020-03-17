@@ -7,8 +7,8 @@ using UnityEngine.UI;
 public class Pause_Handler : MonoBehaviour
 {
 
-    private bool isGamePaused = false;
-    private bool isMinigameRunning = false;
+    public bool isGamePaused = false;
+    public bool isMinigameRunning = false;
     public string ultKey = "q";
 
     public int percentageChanceToSpawnNode = 50;
@@ -16,6 +16,10 @@ public class Pause_Handler : MonoBehaviour
     public GameObject RandomTempChimePrefab;
     public GameObject RandomMagicalSoundPrefab;
     public GameObject NodePrefab;
+    public GameObject MajorReachPrefab;
+    public GameObject player;
+
+    private Vector3 MajorReachPosition;
 
     private GameObject Whitewash;
     private GameObject MinigameWindow;
@@ -75,6 +79,7 @@ public class Pause_Handler : MonoBehaviour
         if (isMinigameRunning == true  && nodesSpawned <= nodesActivated)
         {
             EndingGame = true;
+
             //EndMinigame();
         }
 
@@ -246,6 +251,8 @@ public class Pause_Handler : MonoBehaviour
         MinigameWindow.SetActive(false);
 
         Instantiate(RandomMagicalSoundPrefab);
+        MajorReachPosition = player.transform.position;
+        Instantiate(MajorReachPrefab, MajorReachPosition, new Quaternion (0, 0, 0, 0));
 
         isMinigameRunning = false;
 
