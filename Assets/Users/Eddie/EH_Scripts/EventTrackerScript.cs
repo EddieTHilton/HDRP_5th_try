@@ -18,7 +18,7 @@ public class EventTrackerScript : MonoBehaviour
 
     private void Update()
     {
-        MajorTracker.GetComponent<Text>().text = ("Major Events: \n" + majorEventsTotal + " / " + majorEventsActive);
+        MajorTracker.GetComponent<Text>().text = ("Major Events: \n" + majorEventsActive + " / " + majorEventsTotal);
     }
 
 }
