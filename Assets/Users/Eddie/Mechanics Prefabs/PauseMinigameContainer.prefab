@@ -43,22 +43,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32df44ad9cfae25418232922ac075ab7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isGamePaused: 0
-  isMinigameRunning: 0
   ultKey: q
   percentageChanceToSpawnNode: 80
   RandomTempChimePrefab: {fileID: 6370129148365547525, guid: 5179687290c13af4181ef8098e2437a8,
     type: 3}
+  RandomMagicalSoundPrefab: {fileID: 4569035317131114964, guid: 8ab8d467aa70ead4980ca11668406f20,
+    type: 3}
   NodePrefab: {fileID: 5473404283605881409, guid: ba81617e6fe1a8a4388e59780f065430,
     type: 3}
-  Whitewash: {fileID: 0}
-  MinigameWindow: {fileID: 0}
-  NodeContainer: {fileID: 0}
-  NodeSpawnPoint: {fileID: 0}
-  CameraController: {fileID: 0}
   activeNodeLine: {fileID: 0}
   activatingGameEvent: {fileID: 0}
-  nodesSpawned: 0
+  EndgameDelay: 1
   nodesActivated: 0
 --- !u!1 &1858290396211027169
 GameObject:
@@ -485,16 +480,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1858290397543583018}
     m_Modifications:
-    - target: {fileID: 5473404283605881409, guid: ba81617e6fe1a8a4388e59780f065430,
-        type: 3}
-      propertyPath: m_Name
-      value: Node
-      objectReference: {fileID: 0}
-    - target: {fileID: 5473404283605881409, guid: ba81617e6fe1a8a4388e59780f065430,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5473404283605881408, guid: ba81617e6fe1a8a4388e59780f065430,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -599,6 +584,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5473404283605881409, guid: ba81617e6fe1a8a4388e59780f065430,
+        type: 3}
+      propertyPath: m_Name
+      value: Node
+      objectReference: {fileID: 0}
+    - target: {fileID: 5473404283605881409, guid: ba81617e6fe1a8a4388e59780f065430,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba81617e6fe1a8a4388e59780f065430, type: 3}

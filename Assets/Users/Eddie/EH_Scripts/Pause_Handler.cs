@@ -14,6 +14,7 @@ public class Pause_Handler : MonoBehaviour
     public int percentageChanceToSpawnNode = 50;
 
     public GameObject RandomTempChimePrefab;
+    public GameObject RandomMagicalSoundPrefab;
     public GameObject NodePrefab;
 
     private GameObject Whitewash;
@@ -34,9 +35,12 @@ public class Pause_Handler : MonoBehaviour
 
     public GameObject activatingGameEvent;
 
+    public float EndgameDelay = 1f;
+    private float timeSinceLastNode = 0;
 
     private int nodesSpawned;  //Will be used to detect when all the spawned nodes have been acivated.
     public int nodesActivated;
+    private bool EndingGame = false;
 
     // Start is called before the first frame update
     void Start()
@@ -68,9 +72,15 @@ public class Pause_Handler : MonoBehaviour
 
         }
 
-        if (isMinigameRunning == true  && nodesSpawned == nodesActivated)
+        if (isMinigameRunning == true  && nodesSpawned <= nodesActivated)
         {
-            EndMinigame();
+            EndingGame = true;
+            //EndMinigame();
+        }
+
+        if (EndingGame == true)
+        {
+            EndAfterWait();
         }
         
 
@@ -208,6 +218,19 @@ public class Pause_Handler : MonoBehaviour
 
     }
 
+    void EndAfterWait()
+    {
+        if (timeSinceLastNode >= EndgameDelay)
+        {
+            EndMinigame();
+            EndingGame = false;
+        }
+        else
+        {
+            timeSinceLastNode = timeSinceLastNode + Time.deltaTime;
+        }
+    }
+
     void EndMinigame()
     {
         foreach (GameObject node in nodeList)
@@ -222,7 +245,7 @@ public class Pause_Handler : MonoBehaviour
 
         MinigameWindow.SetActive(false);
 
-        Instantiate(RandomTempChimePrefab);
+        Instantiate(RandomMagicalSoundPrefab);
 
         isMinigameRunning = false;
 

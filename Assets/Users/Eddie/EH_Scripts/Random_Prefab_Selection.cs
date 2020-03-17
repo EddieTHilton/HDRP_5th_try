@@ -26,9 +26,9 @@ public class Random_Prefab_Selection : MonoBehaviour
 
         sourceCount = sources.Count;
 
-        sources[sourceIndex].SetActive(false); // Deactivate the previous sound effect
+        //sources[sourceIndex].SetActive(false); // Deactivate the previous sound effect
 
-        sourceIndex = Mathf.FloorToInt(Random.value * (sourceCount + DummyEntries));
+        sourceIndex = Mathf.FloorToInt(Random.value * ((sourceCount) + DummyEntries));
 
         if (sourceIndex < sourceCount)
         {
