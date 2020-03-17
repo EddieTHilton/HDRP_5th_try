@@ -11,10 +11,10 @@ GameObject:
   - component: {fileID: 7901888419165566756}
   - component: {fileID: 7901888419165566755}
   - component: {fileID: 7901888419165566754}
-  - component: {fileID: 6860626318230396871}
+  - component: {fileID: 7901888419165566757}
   m_Layer: 0
-  m_Name: MajorReach_Collider
-  m_TagString: MajorReach
+  m_Name: Cube
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48,7 +48,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7901888419165566759}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -80,18 +80,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!135 &6860626318230396871
-SphereCollider:
+--- !u!65 &7901888419165566757
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7901888419165566759}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
+  m_IsTrigger: 0
+  m_Enabled: 0
   serializedVersion: 2
-  m_Radius: 5
+  m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &7901888419371169089
 GameObject:
@@ -117,7 +117,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7901888419371169089}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 290.64188, y: 92.49867, z: 593.6403}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7901888419165566756}
