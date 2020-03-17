@@ -35,6 +35,7 @@ public class Random_Prefab_Selection : MonoBehaviour
             tempObject = Instantiate(sources[sourceIndex]);
             tempObject.transform.parent = this.transform;
             tempObject.transform.localPosition = new Vector3(0, 0, 0);
+            tempObject.transform.localRotation = new Quaternion(0, 0, 0, 0);
             //sources[sourceIndex].SetActive(true); // Activate the newly designated sound effect.
         }
     }
