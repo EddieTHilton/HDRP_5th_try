@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8948419961710946961
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4197355710821494513}
+  - component: {fileID: 8758675454076897883}
+  m_Layer: 5
+  m_Name: Random_RuneTile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4197355710821494513
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8948419961710946961}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &8758675454076897883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8948419961710946961}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3584827c733fee44b6579bfaba994b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sources:
+  - {fileID: 5126834142015268526, guid: 40a56eae320a6a240ab3b9dea5c1d6a9, type: 3}
+  - {fileID: 1620905186424923689, guid: 22911de3f4416d84d90e22dbe9e6c3f0, type: 3}
+  - {fileID: 846900815715845571, guid: b0eba173ad1c9dc4c8bd77b5ca9eb347, type: 3}
+  - {fileID: 1435614548526536254, guid: cc9111c3b3e105c4eaa40712690c4b8e, type: 3}
+  - {fileID: 4046840651762223901, guid: feec4bb64875b5341a8c81b19f5555ef, type: 3}
+  - {fileID: 2199525140289502859, guid: fe5d22929292c6649bd9c09187a53ed1, type: 3}
+  DummyEntries: 0
