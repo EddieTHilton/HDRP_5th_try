@@ -12,7 +12,7 @@ Material:
   m_ShaderKeywords: _BLENDMODE_ALPHA _BLENDMODE_PRESERVE_SPECULAR_LIGHTING _EMISSION
     _EMISSIVE_COLOR_MAP _ENABLE_FOG_ON_TRANSPARENT _MASKMAP _METALLICGLOSSMAP _NORMALMAP
     _NORMALMAP_TANGENT_SPACE _RAMPENABLED_ON _SURFACE_TYPE_TRANSPARENT
-  m_LightmapFlags: 1
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
@@ -321,9 +321,9 @@ Material:
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.3137255}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.2627451}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 0.3137255}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.2627451}
     - _ColorTint: {r: 1, g: 0.24264705, b: 0.6970591, a: 1}
     - _ColorTint1: {r: 0, g: 0.10798726, b: 0.2573529, a: 1}
     - _ColorTint2: {r: 0.18382347, g: 0.52629757, b: 1, a: 1}
@@ -331,7 +331,7 @@ Material:
         a: -4.4045647e-18}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissiveColor: {r: 0, g: 21.51047, b: 0.8415759, a: 1}
+    - _EmissiveColor: {r: 0.13608412, g: 6.498017, b: 0.44227338, a: 1}
     - _EmissiveColorLDR: {r: 1, g: 0, b: 0.18196484, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
