@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2.4944746, g: 1.3313746, b: 1.8527426, a: 1}
+  m_IndirectSpecularColor: {r: 2.49449, g: 1.3313746, b: 1.8527426, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -23426,7 +23426,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.01
-  far clip plane: 1000
+  far clip plane: 5000
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -23616,8 +23616,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   volumeAnchorOverride: {fileID: 0}
-  antialiasing: 0
-  SMAAQuality: 2
+  antialiasing: 3
+  SMAAQuality: 1
   dithering: 0
   stopNaNs: 0
   taaSharpenStrength: 0.6
