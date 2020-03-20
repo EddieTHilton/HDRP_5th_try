@@ -1866,17 +1866,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'WASD - Move
-
-
-    E - Interact with Nature
-
-
-    Objective
-
-
-
-'
+  m_text: "\n\n\nExplore the Grove [WASD] and interact with nature \r\nusing your
+    magic [E] to bring back life.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1945,12 +1936,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 965747776}
-    characterCount: 51
+    characterCount: 96
     spriteCount: 0
-    spaceCount: 13
-    wordCount: 9
+    spaceCount: 20
+    wordCount: 17
     linkCount: 0
-    lineCount: 7
+    lineCount: 5
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
