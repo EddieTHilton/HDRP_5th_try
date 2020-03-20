@@ -13,18 +13,23 @@ public class EventTrackerScript : MonoBehaviour
 
     private GameObject MajorTracker;
     private GameObject MinorTracker;
+    private GameObject EndCollider;
 
     private void Start()
     {
         MajorTracker = GameObject.Find("Major Events");
         MinorTracker = GameObject.Find("Minor Events");
-
+        EndCollider = GameObject.Find("EndGameCollider");
     }
 
     private void Update()
     {
         MajorTracker.GetComponent<Text>().text = ("Major Events: \n" + majorEventsActive + " / " + majorEventsTotal);
         MinorTracker.GetComponent<Text>().text = ("Minor Events: \n" + minorEventsActive + " / " + minorEventsTotal);
+        if (majorEventsActive >= majorEventsTotal)
+        {
+            EndCollider.GetComponent<Ending>().completed = true;
+        }
     }
 
 }
