@@ -19,6 +19,8 @@ public class Pause_Handler : MonoBehaviour
     public GameObject MajorReachPrefab;
     public GameObject player;
 
+    private float playerSpeed;
+
     private Vector3 MajorReachPosition;
 
     private GameObject Whitewash;
@@ -61,15 +63,15 @@ public class Pause_Handler : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if ( Input.GetKeyDown(ultKey) ) // Input key Q was selected as this is the default key for ultimates in Overwatch, a popular FPS game.
-        {
-            isGamePaused = true;
-            if (isMinigameRunning != true)
-            {
-                StartMinigame();
-            }
-            isMinigameRunning = true;
-        }
+        //if ( Input.GetKeyDown(ultKey) ) // Input key Q was selected as this is the default key for ultimates in Overwatch, a popular FPS game.
+        //{
+        //    isGamePaused = true;
+        //    if (isMinigameRunning != true)
+        //    {
+        //        StartMinigame();
+        //    }
+         //   isMinigameRunning = true;
+        //}
 
         if ( isGamePaused == true )
         {
@@ -122,6 +124,8 @@ public class Pause_Handler : MonoBehaviour
         CameraController.GetComponent<PlayerCamera>().enabled = false;
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.None;
+        playerSpeed = player.GetComponent<PlayerMovement>().walkSpeed;
+        player.GetComponent<PlayerMovement>().walkSpeed = 0;
 
         MinigameWindow.SetActive(true);
 
@@ -247,6 +251,8 @@ public class Pause_Handler : MonoBehaviour
         CameraController.GetComponent<PlayerCamera>().enabled = true;
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
+
+        player.GetComponent<PlayerMovement>().walkSpeed = playerSpeed;
 
         MinigameWindow.SetActive(false);
 
